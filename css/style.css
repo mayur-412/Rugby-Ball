@@ -55,6 +55,12 @@ nav#menu{
 	text-align: center;
 
 } 
+.mm-listview{
+	background:#15f1ff;
+}
+.mm-navbar{
+	background: #15f1ff;
+}
 .mm-listitem {
     display: inline-block;
     width: 100%;
